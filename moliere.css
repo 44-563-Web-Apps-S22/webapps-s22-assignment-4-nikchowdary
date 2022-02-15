@@ -14,10 +14,21 @@
     font-family: Arial, Helvetica, sans-serif;
     font-size: larger;
     color: black;
-    background-color: lightgreen;
+
 }
 .direction:hover{
     background-color:rgb(14, 99, 71);
     color: rgb(213, 217, 221);
     text-shadow: 2px, 2px, 5px, rgb(48, 209, 155);
 }
+
+.GRE{
+    font-style: italic;
+    color: red;
+}
+
+.SCA{
+    font-style: italic;
+    color: blueviolet;
+}
+
